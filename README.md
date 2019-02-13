@@ -4,6 +4,8 @@
 
 ![Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind.png)
 
+Click here to [preview](https://www.tailwindtoolbox.com/templates/ghostwind)
+
 ## Getting Started
 
 Choose one of the following options to get started:
