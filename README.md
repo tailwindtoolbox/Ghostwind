@@ -2,9 +2,14 @@
 
 [Ghostwind Template](https://www.tailwindtoolbox.com/templates/ghostwind) is a clone of the Casper theme for Ghost created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
+
+![Ghostwind Home Page](https://www.tailwindtoolbox.com/templates/ghostwind-home.png)
+
 ![Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind.png)
 
-Click here to [preview](https://www.tailwindtoolbox.com/templates/ghostwind)
+Click here to [preview the homepage](https://www.tailwindtoolbox.com/templates/ghostwind-home)
+
+Click here to [preview the blog post](https://www.tailwindtoolbox.com/templates/ghostwind)
 
 ## Getting Started
 
