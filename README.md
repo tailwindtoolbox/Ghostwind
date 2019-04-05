@@ -5,8 +5,7 @@
 
 ![Ghostwind Home Page](https://www.tailwindtoolbox.com/templates/ghostwind-home.png)
 
-![Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind.png)
-
+[![Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind.png)](https://tailwindtoolbox.github.io/Ghostwind/post.html)  
 Click here to [preview the homepage](https://www.tailwindtoolbox.com/templates/ghostwind-home)
 
 Click here to [preview the blog post](https://www.tailwindtoolbox.com/templates/ghostwind)
