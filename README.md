@@ -36,9 +36,12 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 * https://twitter.com/amritnagi
 * https://github.com/tailwindtoolbox
 
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
+Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
 
+## Contributors
 
+Thanks for all the tips and PR's!
+* [@diomed](https://github.com/diomed)
 
 
 ## Copyright and License
