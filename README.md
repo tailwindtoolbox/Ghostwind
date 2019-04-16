@@ -8,7 +8,7 @@
 [![Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind.png)](https://tailwindtoolbox.github.io/Ghostwind/post.html)  
 Click here to [preview the homepage](https://www.tailwindtoolbox.com/templates/ghostwind-home)
 
-Click here to [preview the blog post](https://www.tailwindtoolbox.com/templates/ghostwind)
+Click here to [preview the blog post](https://www.tailwindtoolbox.com/templates/ghostwind) | [Vue version](https://tailwindtoolbox.github.io/Ghostwind/post_vue.html)  
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com) fra
 
 ## Contributors
 
-Thanks for all the tips and PR's!
+Thanks for all the tips and PR's and Vue version
 * [@diomed](https://github.com/diomed)
 
 
