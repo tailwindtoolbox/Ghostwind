@@ -11,6 +11,9 @@ Click here to [preview the homepage](https://www.tailwindtoolbox.com/templates/g
 
 Click here to [preview the blog post](https://www.tailwindtoolbox.com/templates/ghostwind) | [Vue version](https://tailwindtoolbox.github.io/Ghostwind/post_vue.html)  
 
+Looking for a dark mode version? Check it out here - https://github.com/chiptu/darkGhostwind
+[![image](https://user-images.githubusercontent.com/43570497/130224254-d074a5bb-c2fd-44d0-a3ce-52df29e89109.png)](https://github.com/chiptu/darkGhostwind)
+
 ## Getting Started
 
 Choose one of the following options to get started:
