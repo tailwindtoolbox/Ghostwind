@@ -96,13 +96,11 @@
 				<p class="text-2xl md:text-3xl mb-5">
 					Want to know if Inflation will affect your pay? Read more to find out.
 				</p>
-
-				<p class="py-6">The basic blog page layout is available and all using the default Tailwind CSS classes (although there are a few hardcoded style tags). If you are going to use this in your project, you will want to convert the classes into components.</p>				
 			
 				<p class="py-6">Today, we are all struggling with the effects of inflation. Prices for everyday household neccesities groceries, energy, and rent have all increased at alarming rates. Electricity has increased by 12%, used vehicle prices are up by 16.1%,and the cost of gasoline has gone up by 49.5%! Everyone is having their wallet squeezed and people want to know if their wages are going to increase in response to the growing prices of goods. I aim to answer this question.  </p>
 				<ol>
 					<li class="py-3">I used the OECD “Inflation(CPI)” and the OECD “Unit labour costs” datasets to try and analyze if and what relationship there are between the two. These datasets have more than 15,000 rows of information with information on multiple countries and groups. I filtered the data to take the annual data and created functions which allowed for input of countries.</li>
-					<li class="py-3">Morbi varius posuere blandit. Praesent gravida bibendum neque eget commodo. Duis auctor ornare mauris, eu accumsan odio viverra in. Proin sagittis maximus pharetra. Nullam lorem mauris, faucibus ut odio tempus, ultrices aliquet ex. Nam id quam eget ipsum luctus hendrerit. Ut eros magna, eleifend ac ornare vulputate, pretium nec felis.</li>
+					<li class="py-3">The first step in my analysis was extract all the data I needed. I created two functions: one for picking out the the data for inflation and  the other for picking out data for cost of labor. After this I plotted them both against time in separate graphs to see if  they both followed the same trends. I then plotted them against each other in a scatter plot and created a regression line. I was able to see how close the points were to the regression line and see how well they correlated. I then got the exact correlation coefficient to make sure what I saw  in the scatter plot was correct.</li>
 					<!--USA Graph-->
 					
 
@@ -146,22 +144,16 @@ if(typeof(mpld3) !== "undefined" && mpld3._mpld3IsLoaded){
             })
          });
 }
-</script>
-					<li class="py-3">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc vitae pretium elit. Cras leo mauris, tristique in risus ac, tristique rutrum velit. Mauris accumsan tempor felis vitae gravida. Cras egestas convallis malesuada. Etiam ac ante id tortor vulputate pretium. Maecenas vel sapien suscipit, elementum odio et, consequat tellus.</li>
+</script>			
+					<li class = "py-3"><em>You can interact with the graph above by using the home, search, and pan button above. Click the search and pan icons and drag on the graphs to intearct with them. Press the home button to reset the graphs.
+					</em></li>
+					<li class="py-3">The first two graphs are not identical but they share many similarities. They both have a record peak before and after 1976 with a large fall in the middle. The record inflation during the 1970s was caused by high inflation and unemployment rising simultaneously which is called stagflation. The drop was caused by an extreme raising of interest rates to 20%. The dip after 2008 was caused by the great recession. These events are mirrored in both of the first two graphs.  The last graph is inflation being plotted against labor cost as a scatter plot with a regression line. Once again we see a strong correlation with most of the points being clustered around the line. The correlation coefficient of the inflation and labor costs is 0.88 which is quite high. 
+					</li>
 				</ol>
 
-				<blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Example of blockquote - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</blockquote>
 
-				<p class="py-6">Example code block:</p>
-				<pre class="bg-gray-900 rounded text-white font-mono text-base p-4">
-					<code class="break-words whitespace-pre-wrap">
-&lt;header class="site-header outer"&gt;
-  &lt;div class="inner"&gt;
-    {{&gt; "site-nav"}}
-  &lt;/div&gt;
-&lt;/header&gt;
-					</code>
-				</pre>
+
+				<p class="py-6"><a class="text-gray-800 hover:text-green-500 no-underline border-b-2 border-green-500" href="https://github.com/charansr/Data-Science-Projects/tree/main/Wage-vs-Inflation-Project">Github-Repository-with-Code</a></p>
 
 												
 				<!--/ Post Content-->
