@@ -231,4 +231,5 @@ def graph_all(country):
     Html_file.write(html_str)
     Html_file.close()
 
+graph_all("USA")
 
